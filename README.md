@@ -7,4 +7,6 @@
 
 2.生成的虚拟数据用了中文
 
+![Image text](https://github.com/jjjkakagiggs/bluelog/blob/master/jietu.png)
+
 [模仿项目的链接](https://github.com/greyli/bluelog) 
