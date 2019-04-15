@@ -1,5 +1,5 @@
 # bluelog
-模仿bluelog的项目
+利用flask框架模仿而写的个人博客项目
 
 与原项目的差异：
 
